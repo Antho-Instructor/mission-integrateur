@@ -21,6 +21,14 @@
 -   Le site doit être accessible [(WAVE)](https://wave.webaim.org/)
 -   Le site doit être optimisé [(Google PageSpeed Insights)](https://developers.google.com/speed/pagespeed/insights/)
 
+## 🏁 Lancer le projet
+
+-   Clique sur le bouton `Use this template` en haut à droite
+-   Clone le projet
+-   Rend toi dans le fichier `index.html` dans le dossier `src`
+-   Commence à coder
+-   Pour lancer le projet, utilise l'extension `Live Server` de Visual Studio Code (ouvrir le fichier `index.html` et cliquer sur `Go Live` en bas à droite)
+
 ## 🗄️ Ressources
 
 -   La maquette est disponible dans le figma => [Discover Marseille](https://www.figma.com/design/X7R655Xvzu5zo8PKmKfkkG/Marseille-HTML-%2F-CSS?node-id=0-1&t=iq4eeU47UbDYyek9-1)
@@ -33,7 +41,6 @@
 
 Pour la mise en production, nous allons utiliser github pages.
 
--   Forker le projet
 -   Activer les [github pages](https://docs.github.com/fr/pages/getting-started-with-github-pages/creating-a-github-pages-site) dans les settings
 -   Mettre en production le site
 
